@@ -1,0 +1,138 @@
+body {
+    text-align: center;
+    background: rgb(193, 34, 195);
+    background: linear-gradient(0deg, rgba(193, 34, 195, 1) 0%, rgba(45, 253, 240, 1) 100%);
+}
+
+#admission_title {
+    color: blue;
+    background-color: chartreuse;
+    font-family: monospace;
+    font-size: 65px;
+}
+
+.h5s {
+    color: deeppink;
+    background-color: cornsilk;
+    font-family: fantasy;
+    font-size: 30px;
+}
+
+.para {
+    color: deepskyblue;
+    background-color: crimson;
+    font-size: 20px;
+}
+
+#h2_admission {
+    color: darkmagenta;
+    background-color: aqua;
+    font-family: fantasy;
+}
+
+#achievements_title {
+    color: blue;
+    background-color: chartreuse;
+    font-family: monospace;
+    font-size: 65px;
+}
+
+.achievements_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.achievements_head i {
+    float: right;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.achievement_text span {
+    color: #ff7700;
+}
+
+.header_entrepreneur {
+    line-height: 2;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center
+}
+
+input {
+    background: grey;
+}
+
+.addmision_maindiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.admission_maindiv img {
+    width: 100%;
+}
+
+.admission_maindiv hr {
+    width: 230px;
+}
+
+.admission_maindiv h5,
+.admission_maindiv p {
+    margin-left: 20px;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+#bus-service_title {
+    color: blue;
+    background-color: chartreuse;
+    font-family: monospace;
+    font-size: 65px;
+}
+
+#branches_title {
+    color: blue;
+    background-color: chartreuse;
+    font-family: monospace;
+    font-size: 65px;
+}
